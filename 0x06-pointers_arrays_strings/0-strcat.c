@@ -4,6 +4,7 @@
  * _strcat - this is the name of the function
  * @dest: this is the concatenation parameter
  * @src: this is the Concatenation parameter also
+ * Return: dest
  */
 
 char *_strcat(char *dest, char *src)
